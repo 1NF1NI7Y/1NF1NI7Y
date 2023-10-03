@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Metrics](https://github.com/1NF1NI7Y/1NF1NI7Y/blob/main/github-metrics.svg?)
+
+![](https://komarev.com/ghpvc/?username=1NF1NI7Y&color=orange)
